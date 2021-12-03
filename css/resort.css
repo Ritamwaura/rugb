@@ -1,0 +1,55 @@
+h1{
+  color:rgb(35, 233, 8);
+  font-weight: 500px;
+  padding-left: 350px;
+  padding-top: 200px;
+  font-style: italic;
+}
+#top{
+  display:flex;
+  background-color: blacks;
+  flex-wrap: wrap;
+}
+#top p{
+  color: brown;
+}
+#top a{
+  font-weight: bolder;
+  font-size: large;
+  margin-top:30px;
+  margin-left: 40px;
+  text-decoration: none;
+  color: rgb(17, 17, 16);
+
+}
+h3{
+  margin-top: -25px;
+  color: brown;
+  flex-wrap: wrap;
+}
+div{
+  background-color: #95CADB
+  padding-top: 10px;
+
+}
+body{
+background-image: url("/home/user/Desktop/resort_webpage-master/pics/_MG_4269.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 100%;
+}
+.right{
+  align-items: right;
+}
+span{
+  font-family
+}
+li{
+  padding: 5px 5px;
+  margin: 10px;
+  border: 1px;
+  font-size: 40px;
+
+}
+
+
